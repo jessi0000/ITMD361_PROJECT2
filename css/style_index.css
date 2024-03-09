@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #E8F5E9;
+}
+
+main {
+    padding-top: 100px; /* Adjust this value as needed to avoid overlap with the menu bar */
+    width: 50%;
+    margin: 0 auto;
+    text-align: center; /* Center-aligns the text within the main section */
+}
