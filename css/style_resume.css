@@ -36,3 +36,18 @@ main {
     background-color: #ddd;
     color: black;
 }
+
+ul {
+    list-style-type: none;
+}
+
+ul.skills {
+    list-style-type: disc; /* Adds bullet points back for "Skills" list */
+}
+
+header h1{
+    text-align: center;
+}
+header h3{
+    text-align: left;
+}
