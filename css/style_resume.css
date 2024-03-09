@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #E8F5E9;
+    text-align: left;
+}
+
+main {
+     padding-top: 100px;
+     width: 70%;
+     margin: 0 auto;
+}
