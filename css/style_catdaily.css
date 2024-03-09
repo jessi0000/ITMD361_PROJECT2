@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #E8F5E9;
+}
+
+main {
+    padding-top: 60px; /* Adjust to ensure main content does not overlap with menu */
+    margin: auto;
+}
